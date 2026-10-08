@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://parshwa-enterprise.vercel.app/sitemap.xml
